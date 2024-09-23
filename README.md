@@ -1,1 +1,2 @@
 # PIZZA-SALES-DASHBOARD
+A Pizza Sales Dashboard provides a comprehensive overview of pizza sales performance, visualizing key metrics like total sales, orders by pizza type, revenue trends, and customer preferences. It offers detailed insights into peak sales periods, popular toppings, and regional demand. The dashboard helps businesses monitor inventory levels, sales growth, and profitability. Additionally, it supports data-driven decisions by highlighting trends and customer behavior for optimizing menu offerings and marketing strategies.
